@@ -1,6 +1,6 @@
 # BGTECH Blog
 
-I provide a little more documentation then is available previous to this and provide a template that works with my blog post [here](https://bgtech.pro/posts/static-generators-jekyll-chirpy/).
+I provide a little more documentation then is available previous to this and provide a template that works with my blog post [here](https://bgtech.pro/posts/static-generators-jekyll-chirpy/ "Protfolio-Blog").
 
 ## Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
